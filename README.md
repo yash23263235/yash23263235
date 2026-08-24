@@ -1,16 +1,14 @@
-## Hi there 👋
+# Spotify Website Clone
 
-<!--
-**yash23263235/yash23263235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A responsive Spotify-inspired music streaming website built using **HTML, CSS, and JavaScript**. The project recreates the core interface and provides a clean, modern user experience across desktop and mobile devices.
 
-Here are some ideas to get you started:
+### 🚀 Live Demo
+https://spotify-website-clone-olive.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* Vercel
